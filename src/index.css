@@ -4,7 +4,7 @@
 
 @layer base {
   :root {
-    --hue: 189;
+    --hue: 357;
 
     /* light mode defaults */
     --color-theme-light: calc(var(--hue) - 45) 25% 98%;

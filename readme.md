@@ -2,3 +2,4 @@
 - Tailwind-merge: https://www.npmjs.com/package/tailwind-merge
 - clsx: https://www.npmjs.com/package/clsx
 - shadcn: https://ui.shadcn.com/
+- hue picker: https://www.joshwcomeau.com/css/color-formats/
