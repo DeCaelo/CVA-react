@@ -1,0 +1,4 @@
+- CVA: https://cva.style/docs
+- Tailwind-merge: https://www.npmjs.com/package/tailwind-merge
+- clsx: https://www.npmjs.com/package/clsx
+- shadcn: https://ui.shadcn.com/
