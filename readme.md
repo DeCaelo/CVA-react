@@ -3,3 +3,4 @@
 - clsx: https://www.npmjs.com/package/clsx
 - shadcn: https://ui.shadcn.com/
 - hue picker: https://www.joshwcomeau.com/css/color-formats/
+- https://vincentdusautoir.com/posts/button-variants-tailwindcss
